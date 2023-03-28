@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Messenger</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="textButtonAutores">Авторизация</string>
+    <string name="edittext_e_mail">E-mail</string>
+    <string name="textButton_Reg">Регистрация</string>
+</resources>
